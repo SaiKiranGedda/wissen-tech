@@ -3,7 +3,7 @@ package Methods;
 public class method1 {
 	public void kiran(int a, int b) {
 		int c = a + b;
-		System.out.println(c);
+		System.out.println(c);     
 	}
 
 	public void gedda(String str1, String str2) {
